@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone 👋
+
+Obrigada por chegar até aqui. Vou tentar mostrar um pouco de mim pra você.
+
+
 
 <!--
 **victoriacassolo/victoriacassolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

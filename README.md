@@ -11,7 +11,7 @@ Meu nome é Victoria Cassolo e moro em São Paulo, Brazil. Sou formada em Sistem
 Here are some ideas to get you started:
 -->
 <!--- 💬 Ask me about ...-->
-<strong> function Information() { </strong>
+<strong> function Information( ) { </strong>
 - 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento;
 - 🌱 Estou aprendendo <strong> NodeJS - VueJS </strong> e leio sempre livros sobre algoritmos, atualmente estou lendo o <em>livro clean code </em>;
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;

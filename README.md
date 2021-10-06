@@ -3,6 +3,7 @@
 Obrigada por chegar até aqui. Vou tentar mostrar um pouco de mim pra você.
 
 ### About me
+
 Meu nome é Victoria Cassolo e moro em São Paulo, Brazil. Sou formada em Sistemas de Informação pela UNIARA.
 
 <!--
@@ -11,7 +12,8 @@ Meu nome é Victoria Cassolo e moro em São Paulo, Brazil. Sou formada em Sistem
 Here are some ideas to get you started:
 -->
 <!--- 💬 Ask me about ...-->
-<strong> function Information( ) { </strong>
+### Information
+
 - 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento;
 - 🌱 Estou aprendendo <strong> NodeJS - VueJS </strong> e leio sempre livros sobre algoritmos, atualmente estou lendo o <em>livro clean code </em>;
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 Pode me contatar pelo email: vitoria.cassolo@gmail.com;
 - 😄 Pronouns: ela/dela;
 - ⚡ Fun fact: Já estou assistindo <em> The Big Bang Theory </em> pela 3ª vez
-- <strong>};</strong>

@@ -13,10 +13,17 @@ Here are some ideas to get you started:
 -->
 <!--- 💬 Ask me about ...-->
 ### Information
+
 - 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento;
+
 - 🌱 Estou aprendendo <strong> NodeJS - VueJS </strong> e leio sempre livros sobre algoritmos, atualmente estou lendo o <em>livro clean code </em>;
+
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
+
 - 🤔 Preciso de ajuda com oportunidades de trabalho;
+
 - 📫 Pode me contatar pelo email: vitoria.cassolo@gmail.com;
+
 - 😄 Pronouns: ela/dela;
+
 - ⚡ Fun fact: Já estou assistindo <em> The Big Bang Theory </em> pela 3ª vez

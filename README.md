@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento;
 
-- 🌱 Estou aprendendo <strong> NodeJS - VueJS </strong> e leio sempre livros sobre algoritmos, atualmente estou lendo o <em>livro clean code </em>;
+- 🌱 Estou aprendendo <strong> NodeJS - ReactJS </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
 
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ela/dela;
 
-- ⚡ Fun fact: Já estou assistindo <em> The Big Bang Theory </em> pela 3ª vez
+- ⚡ Fun fact: Pratico Inglês assistindo séries com legenda em inglês;

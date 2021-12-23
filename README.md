@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 <!--- 💬 Ask me about ...-->
 ### Information
 
-- 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento;
-
-- 🌱 Estou aprendendo <strong> NodeJS - ReactJS </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
+- 🌱 Estou aprendendo <strong> ReactJS - Solidity </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
 
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
 

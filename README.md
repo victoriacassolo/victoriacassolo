@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!--- 💬 Ask me about ...-->
 ### Information
 
-- 🌱 Estou aprendendo <strong> ReactJS - Solidity </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
+- 🌱 Estou aprendendo <strong> ReactJS - Solidity - Laravel</strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
 
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
 

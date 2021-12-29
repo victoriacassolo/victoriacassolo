@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
 
-- 🤔 Preciso de ajuda com oportunidades de trabalho;
 
 - 📫 Pode me contatar pelo email: vitoria.cassolo@gmail.com;
 

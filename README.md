@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 <!--- 💬 Ask me about ...-->
 ### Information
 
-- 🌱 Estou aprendendo <strong> TypeScript - Solidity </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
-
-- 👯 Procuro colaborar com a comunidade criando repositórios explicativos;
+- 🌱 Estou na área de web3 e metaverso então você vai ver bastante projeto sobre isso aqui. Estou aprendendo <strong> TypeScript - Solidity </strong> e leio sempre livros sobre tecnologias, atualmente estou lendo o <em>livro Blockchain Básico </em>;
 
 - 📫 Pode me contatar pelo email: vitoria.cassolo@gmail.com;
 
-- ⚡ Fun fact: Pratico Inglês assistindo séries com legenda em inglês;
